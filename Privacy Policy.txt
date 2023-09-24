@@ -1,0 +1,44 @@
+Privacy Policy for Med Kultura Android Application
+
+Effective Date: 01.10.2023
+
+1. Introduction
+
+Med Kultura (hereinafter referred to as "the App") is committed to protecting the privacy of its users. This Privacy Policy explains how we collect, use, and safeguard your personal information when you use the App's Firebase authentication. By using the App, you consent to the practices described in this policy.
+
+2. Information We Collect
+
+a. User-Provided Information: When you use the App, you may provide us with certain personal information to authenticate via Firebase OAuth. This may include:
+
+Your name
+Email address
+Profile information from your Firebase account
+3. How We Use Your Information
+
+We collect and use the information primarily for the purpose of Firebase authentication. Firebase's data processing practices and definitions apply to the data collected for authentication purposes. Please refer to Firebase's Privacy Policy for more information on how Firebase handles your data.
+
+4. Data Security
+
+We take reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee the absolute security of your data.
+
+5. Third-Party Services
+
+The App uses Firebase for authentication purposes. Firebase may collect and process your information according to its privacy policy and definitions. We encourage you to review Firebase's Privacy Policy for more details.
+
+6. Children's Privacy
+
+The App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13 years of age. If you believe that we have inadvertently collected such information, please contact us at appkultura@gmail.com, and we will promptly take appropriate action.
+
+7. Data Removal
+
+If you would like your data removed from our system, please contact us at appkultura@gmail.com. We will process your request within a reasonable timeframe in accordance with applicable laws.
+
+8. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons. Any changes will be effective when posted. We encourage you to review this Privacy Policy periodically.
+
+9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at appkultura@gmail.com.
+
+By using the App, you agree to the terms and conditions outlined in this Privacy Policy.

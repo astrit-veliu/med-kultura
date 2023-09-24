@@ -1,2 +1,0 @@
-# med-kultura
-Med Kultura
